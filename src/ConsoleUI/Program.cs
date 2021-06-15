@@ -1,5 +1,6 @@
 ﻿using System;
 using LogicLib.CoreBasic;
+using LogicLib.CoreBasicVol2;
 
 namespace ConsoleUI
 {
@@ -16,8 +17,13 @@ namespace ConsoleUI
             // DateTimeAndSpanDemo.UseDateAndTimes();
             // BigIntegersDemo.UseBigInteger();
             // StringsDemo.PrintInfo();
-            PatternMatchingDemo.IfElsePatternMatching();
+            // PatternMatchingDemo.IfElsePatternMatching();
+            // FunWithArrays.DemoArrays();
+            // FunWithArrays.PrintObjectArrayInfo();
+            // FunWithArrays.PrintInfoMultiDimArray();
+            // FunWithArrays.PrintInfoJaggedArray();
+            // FunWithArrays.PrintArrayStaticMethodsInfo();
+            IndexesAndRangesDemo.PrintInfo();
         }
-        
     }
 }
