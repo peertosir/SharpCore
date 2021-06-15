@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "src\ConsoleUI\ConsoleUI.csproj", "{F408CFFD-6373-4AE5-BCBB-39EBF65AEB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLib", "src\LogicLib\LogicLib.csproj", "{B20B4381-9FD3-4B31-B7F4-83F000C12B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F408CFFD-6373-4AE5-BCBB-39EBF65AEB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F408CFFD-6373-4AE5-BCBB-39EBF65AEB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F408CFFD-6373-4AE5-BCBB-39EBF65AEB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F408CFFD-6373-4AE5-BCBB-39EBF65AEB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20B4381-9FD3-4B31-B7F4-83F000C12B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20B4381-9FD3-4B31-B7F4-83F000C12B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20B4381-9FD3-4B31-B7F4-83F000C12B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20B4381-9FD3-4B31-B7F4-83F000C12B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
